@@ -16,4 +16,3 @@ Ruby continues to gain popularity for its use in web application development. Th
 - Logic & Conditionals
 - Methods
 - Arrays?
-
