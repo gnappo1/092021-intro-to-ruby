@@ -15,4 +15,4 @@ Ruby continues to gain popularity for its use in web application development. Th
 - Variables
 - Logic & Conditionals
 - Methods
-- Arrays?
+- Arrays [slides](https://docs.google.com/presentation/d/1t8-hgibAZ91Rae79ZqKV17olbXRpsN8SChmTRIJD674/edit?usp=sharing)
